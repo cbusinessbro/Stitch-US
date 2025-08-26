@@ -31,6 +31,13 @@
         "message_VH4bcp": {
           "type": "message",
           "settings": {
+            "text": "BACK-TO-SCHOOL OFFER: 50% OFF!",
+            "url": ""
+          }
+        },
+        "message_NgLzDL": {
+          "type": "message",
+          "settings": {
             "text": "100% SECURE PAYMENT",
             "url": ""
           }
@@ -39,7 +46,8 @@
       "block_order": [
         "message",
         "message_MLTWpE",
-        "message_VH4bcp"
+        "message_VH4bcp",
+        "message_NgLzDL"
       ],
       "settings": {
         "enable_sticky": false,
