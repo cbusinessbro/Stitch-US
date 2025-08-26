@@ -705,15 +705,23 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "How long does the built-in melody play?",
+            "content": "<p>The melody plays for about 20 minutes. It is specially selected to gradually relax and soothe.</p>"
+          }
+        },
+        "item_6rQ3nE": {
+          "type": "item",
+          "settings": {
+            "title": "Does it need batteries?",
+            "content": "<p>Yes, StitchCalm™ operates with 3 AAA batteries. The battery compartment is secured and hidden inside the toy.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_6rQ3nE"
       ],
       "settings": {
         "full_width": false,
