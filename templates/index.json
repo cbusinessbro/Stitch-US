@@ -217,6 +217,12 @@
             "liquid": "<div class=\"unique-payment-container-Xyz456\" style=\"display:flex;justify-content:center;\">\n  <div class=\"unique-payment-options-Abc789\" style=\"display:flex;gap:10px;align-items:center;justify-content:center;\">\n    <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\" style=\"height:30px;\">\n    <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\" style=\"height:30px;\">\n    <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\" style=\"height:30px;\">\n    <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\" style=\"height:30px;\">\n    <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\" style=\"height:30px;\">\n    <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\" style=\"height:30px;\">\n  </div>\n</div>"
           }
         },
+        "liquid_UkBUeR": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Availability Badge</title>\n\n  <style>\n    .unique-body-Xyz123 {\n      font-family: Arial, sans-serif;\n      background-color: #f9f9f9;\n      color: #333;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n    }\n\n    .unique-container-Abc456 {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      gap: 10px;\n    }\n\n    /* Green badge */\n    .unique-badge-Def789 {\n      display: inline-flex;\n      align-items: center;\n      background-color: #e0ffd8;\n      color: #004d00;\n      padding: 2px 4px;\n      border-radius: 3px;\n      font-size: 10px;\n      font-weight: bold;\n      text-align: center;\n      position: relative;\n    }\n\n    /* Red badge */\n    .unique-badge-Ghi012 {\n      display: inline-flex;\n      align-items: center;\n      background-color: #ffdede;\n      color: #b22222;\n      padding: 2px 4px;\n      border-radius: 3px;\n      font-size: 10px;\n      font-weight: bold;\n      text-align: center;\n      position: relative;\n    }\n\n    .unique-icon-Jkl345 {\n      width: 12px; \n      height: 12px;\n      margin-right: 2px;\n      vertical-align: middle;\n    }\n\n    .unique-badge-Def789 span, \n    .unique-badge-Ghi012 span {\n      display: flex;\n      align-items: center;\n      white-space: nowrap;\n    }\n\n    @keyframes unique-rotate-Mno678 {\n      from { transform: rotate(0deg); }\n      to { transform: rotate(360deg); }\n    }\n\n    .unique-clock-hand-Pqr901 {\n      transform-origin: 50% 50%;\n      animation: unique-rotate-Mno678 2s linear infinite;\n    }\n  </style>\n\n  <div class=\"unique-container-Abc456\">\n    <!-- Green guarantee badge -->\n    <div class=\"unique-badge-Def789\">\n      <span>\n        <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n          <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"></path>\n        </svg>\n        30-day money-back guarantee.\n      </span>\n    </div>\n\n    <!-- Red limited-time badge -->\n    <div class=\"unique-badge-Ghi012\">\n      <span>\n        <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n          <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"></circle>\n          <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"></line>\n          <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"></line>\n        </svg>\n        Only available for a limited time\n      </span>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "collapsible_text_yfmkQ6": {
           "type": "collapsible_text",
           "settings": {
@@ -248,6 +254,7 @@
         "quantity_selector_9iNHjM",
         "buy_buttons_MhBEKk",
         "liquid_xdmK63",
+        "liquid_UkBUeR",
         "collapsible_text_yfmkQ6",
         "collapsible_text_FnDVNC"
       ],
@@ -268,6 +275,145 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_CqQhrh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pdhYRz": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pdhYRz"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_6yLcxC": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_NM6xGi": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3HwFQE": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_JzHAGF": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_J4FBmw": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_irkbmJ": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_g3gXfh": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_kQCaag": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_NM6xGi",
+        "item_3HwFQE",
+        "item_JzHAGF",
+        "item_J4FBmw",
+        "item_irkbmJ",
+        "item_g3gXfh",
+        "item_kQCaag"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "faq": {
@@ -328,6 +474,8 @@
     "logo_list_qhqd4w",
     "slideshow_MJUbgc",
     "featured_product_kaAwn7",
+    "rich_text_CqQhrh",
+    "image_link_blocks_6yLcxC",
     "faq"
   ]
 }
