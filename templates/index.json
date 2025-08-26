@@ -165,6 +165,24 @@
             "liquid": "<div style=\"background-color: #f5f5f5; padding: 6px 10px; text-align: center; border-radius: 8px; margin: 0; line-height: 1;\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333; letter-spacing: 0.5px;\">\n      #1 SOLUTION FOR RESTFUL SLEEP IN CHILDREN 2025 🇩🇪\n    </span>\n</div>"
           }
         },
+        "liquid_C9F6jJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"main-product__block main-product__block-custom_liquid\">\n      <div class=\"m-product-text\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"product-info__liquid\">\n              <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Stars\" width=\"63\" height=\"13\">\n                <span class=\"text-size\"><b>4.8/5</b> from 1,926 reviews</span>\n              </a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_hqFCn9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .benefits-container {\n      padding: 0;\n    }\n\n    .benefit-item {\n      display: flex;\n      align-items: center;\n      margin: 10px 0;\n      padding: 0;\n    }\n\n    .benefit-icon {\n      width: 20px;\n      height: 20px;\n      border-radius: 50%;\n      background: #7fb3d3;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      margin-right: 12px;\n      flex-shrink: 0;\n      margin-top: 2px;\n    }\n\n    .benefit-icon::after {\n      content: \"✓\";\n      color: white;\n      font-weight: bold;\n      font-size: 12px;\n    }\n\n    .benefit-text {\n      font-size: 12px; /* Smaller text */\n      color: #2c3e50;\n      font-weight: 400;\n    }\n\n    .benefit-bold {\n      font-weight: 700;\n      color: #34495e;\n      font-size: 13px; /* Bold text slightly larger */\n    }\n\n    .title {\n      display: none;\n    }\n  </style>\n\n  <div class=\"benefits-container\">\n    <div class=\"title\">TraumStitch™ Benefits</div>\n    \n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">A gentle design, <span class=\"benefit-bold\">soft and soothing</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Relaxes with its <span class=\"benefit-bold\">breathing motion</span> and <span class=\"benefit-bold\">soothing melody</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Makes <span class=\"benefit-bold\">falling asleep easy in minutes</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">A <span class=\"benefit-bold\">relaxing bedtime ritual</span> for children and adults.</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_ryHbCX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .benefits-container {\n      padding: 0;\n    }\n\n    .benefit-item {\n      display: flex;\n      align-items: center;\n      margin: 10px 0;\n      padding: 0;\n    }\n\n    .benefit-icon {\n      width: 20px;\n      height: 20px;\n      border-radius: 50%;\n      background: #7fb3d3;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      margin-right: 12px;\n      flex-shrink: 0;\n      margin-top: 2px;\n    }\n\n    .benefit-icon::after {\n      content: \"✓\";\n      color: white;\n      font-weight: bold;\n      font-size: 12px;\n    }\n\n    .benefit-text {\n      font-size: 12px; /* Smaller text */\n      color: #2c3e50;\n      font-weight: 400;\n    }\n\n    .benefit-bold {\n      font-weight: 700;\n      color: #34495e;\n      font-size: 13px; /* Bold text slightly larger */\n    }\n\n    .title {\n      display: none;\n    }\n  </style>\n\n  <div class=\"benefits-container\">\n    <div class=\"title\">TraumStitch™ Benefits</div>\n    \n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">A gentle design, <span class=\"benefit-bold\">soft and soothing</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Relaxes with its <span class=\"benefit-bold\">breathing motion</span> and <span class=\"benefit-bold\">soothing melody</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Makes <span class=\"benefit-bold\">falling asleep easy in minutes</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">A <span class=\"benefit-bold\">relaxing bedtime ritual</span> for children and adults.</div>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "variant_picker_bWYFCb": {
           "type": "variant_picker",
           "disabled": true,
@@ -217,6 +235,9 @@
       "block_order": [
         "text_YHN7zk",
         "liquid_8UyjcK",
+        "liquid_C9F6jJ",
+        "liquid_hqFCn9",
+        "liquid_ryHbCX",
         "variant_picker_bWYFCb",
         "quantity_selector_9iNHjM",
         "buy_buttons_MhBEKk",
