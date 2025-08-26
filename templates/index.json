@@ -715,13 +715,29 @@
             "title": "Does it need batteries?",
             "content": "<p>Yes, StitchCalm™ operates with 3 AAA batteries. The battery compartment is secured and hidden inside the toy.</p>"
           }
+        },
+        "item_UXVH8K": {
+          "type": "item",
+          "settings": {
+            "title": "Is it suitable for children who sleep alone?",
+            "content": "<p>Absolutely. StitchCalm™ helps children feel safe and secure, even without their parents nearby.</p>"
+          }
+        },
+        "item_gUYTPW": {
+          "type": "item",
+          "settings": {
+            "title": "Is it also useful for adults?",
+            "content": "<p>Yes! Many adults use it to reduce stress, help with falling asleep, or simply as a relaxation ritual.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_6rQ3nE"
+        "item_6rQ3nE",
+        "item_UXVH8K",
+        "item_gUYTPW"
       ],
       "settings": {
         "full_width": false,
