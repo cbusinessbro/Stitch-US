@@ -27,11 +27,19 @@
             "text": "MORE THAN 1,900 HAPPY CUSTOMERS",
             "url": ""
           }
+        },
+        "message_VH4bcp": {
+          "type": "message",
+          "settings": {
+            "text": "100% SECURE PAYMENT",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_MLTWpE"
+        "message_MLTWpE",
+        "message_VH4bcp"
       ],
       "settings": {
         "enable_sticky": false,
