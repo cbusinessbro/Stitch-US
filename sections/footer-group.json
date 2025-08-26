@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Contact US",
-            "content": "<p>Our customer service is available:</p><p>Monday to Saturday, from 9:00 AM to 6:00 PM.</p><p>You can contact us anytime by email at: contact@stitchcalm.com</p><p>We usually respond within 24 hours.</p>",
+            "content": "<p>Our customer service is available:</p><p>Monday to Saturday, from 9:00 AM to 6:00 PM.</p><p>You can contact us anytime by email at: hello@stitchcalm.com</p><p>We usually respond within 24 hours.</p>",
             "enable_follow_on_shop": false
           }
         }
