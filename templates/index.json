@@ -159,6 +159,12 @@
             "text": "<p>Share some content to your customers about your products.</p>"
           }
         },
+        "liquid_8UyjcK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #f5f5f5; padding: 6px 10px; text-align: center; border-radius: 8px; margin: 0; line-height: 1;\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333; letter-spacing: 0.5px;\">\n      #1 SOLUTION FOR RESTFUL SLEEP IN CHILDREN 2025 🇩🇪\n    </span>\n</div>"
+          }
+        },
         "variant_picker_bWYFCb": {
           "type": "variant_picker",
           "disabled": true,
@@ -210,6 +216,7 @@
       },
       "block_order": [
         "text_YHN7zk",
+        "liquid_8UyjcK",
         "variant_picker_bWYFCb",
         "quantity_selector_9iNHjM",
         "buy_buttons_MhBEKk",
