@@ -540,6 +540,7 @@
         "item_z8bhUn": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/202508261813 (2).mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
