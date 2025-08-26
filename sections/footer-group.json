@@ -23,7 +23,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "FREE SHIPPING",
             "content": ""
           }
         },
@@ -36,20 +36,20 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
+            "title": "24/7 CUSTOMER SUPPORT",
             "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-love",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
+            "title": "30-DAY MONEY-BACK GUARANTEE",
             "content": ""
           }
         },
@@ -62,7 +62,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
+            "title": "SECURE PAYMENT",
             "content": ""
           }
         }
@@ -110,7 +110,7 @@
           "settings": {
             "title": "About",
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
