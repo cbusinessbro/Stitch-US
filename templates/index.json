@@ -118,6 +118,7 @@
         },
         "variant_picker_bWYFCb": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -135,8 +136,8 @@
         "buy_buttons_MhBEKk": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -175,7 +176,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "stitchcalm",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
