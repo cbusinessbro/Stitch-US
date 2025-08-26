@@ -228,8 +228,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "How long does delivery take?",
+            "content": "<p>We prepare your order within 24 hours.</p><p>Delivery takes between 4 and 10 business days, depending on your location and stock availability (we have many orders at the moment 💙).</p><p>👉 You will receive a live tracking link, and we only work with sustainable shipping partners.</p>",
             "page": ""
           }
         },
