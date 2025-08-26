@@ -566,6 +566,7 @@
         "item_WC3MLj": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/202508261813 (1).mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
