@@ -74,7 +74,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo-milk.png",
-            "logo_width": 120,
+            "logo_width": 70,
             "link": ""
           }
         },
