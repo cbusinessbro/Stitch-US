@@ -81,6 +81,7 @@
         "logo_XcFMNd": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/KIDSANDUS_RGB-da2e2a01e3e74085ca85e6ece7a00da7.png",
             "logo_width": 120,
             "link": ""
           }
