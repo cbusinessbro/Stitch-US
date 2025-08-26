@@ -422,6 +422,7 @@
         "image_thJakc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/11_dd5836e8-4c3f-4625-8814-46c56798bde2_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -465,6 +466,157 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
+      }
+    },
+    "multi_column_AcdCVf": {
+      "type": "multi-column",
+      "blocks": {
+        "item_z8bhUn": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aHE4qH": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WC3MLj": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rYqwDz": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_z8bhUn",
+        "item_aHE4qH",
+        "item_WC3MLj",
+        "item_rYqwDz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_GTKHGh": {
+      "type": "slideshow",
+      "blocks": {
+        "image_dkm7WU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Breathing_Buddy_-_Stitch_Lila_1.webp",
+            "mobile_image": "shopify://shop_images/Breathing_Buddy_-_Stitch_Lila_1.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_dkm7WU"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "media_with_text_JGm7Dn": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_WNgYLX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Angel_et_Stitch_Veilleuse_Peluche_Respirante.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#eaeef4",
+            "background_gradient": "",
+            "text_color": "#1e2833",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_WNgYLX"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
       }
     },
     "faq": {
@@ -529,6 +681,9 @@
     "image_link_blocks_6yLcxC",
     "media_with_text_fVcb9V",
     "scrolling_text_jLkiid",
+    "multi_column_AcdCVf",
+    "slideshow_GTKHGh",
+    "media_with_text_JGm7Dn",
     "faq"
   ]
 }
