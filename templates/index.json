@@ -156,7 +156,7 @@
         "text_YHN7zk": {
           "type": "text",
           "settings": {
-            "text": "<p>Share some content to your customers about your products.</p>"
+            "text": "<h5>StitchCalm: A magical companion for peaceful nights</h5>"
           }
         },
         "liquid_8UyjcK": {
@@ -180,7 +180,7 @@
         "liquid_ryHbCX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .benefits-container {\n      padding: 0;\n    }\n\n    .benefit-item {\n      display: flex;\n      align-items: center;\n      margin: 10px 0;\n      padding: 0;\n    }\n\n    .benefit-icon {\n      width: 20px;\n      height: 20px;\n      border-radius: 50%;\n      background: #7fb3d3;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      margin-right: 12px;\n      flex-shrink: 0;\n      margin-top: 2px;\n    }\n\n    .benefit-icon::after {\n      content: \"✓\";\n      color: white;\n      font-weight: bold;\n      font-size: 12px;\n    }\n\n    .benefit-text {\n      font-size: 12px; /* Smaller text */\n      color: #2c3e50;\n      font-weight: 400;\n    }\n\n    .benefit-bold {\n      font-weight: 700;\n      color: #34495e;\n      font-size: 13px; /* Bold text slightly larger */\n    }\n\n    .title {\n      display: none;\n    }\n  </style>\n\n  <div class=\"benefits-container\">\n    <div class=\"title\">TraumStitch™ Benefits</div>\n    \n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">A gentle design, <span class=\"benefit-bold\">soft and soothing</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Relaxes with its <span class=\"benefit-bold\">breathing motion</span> and <span class=\"benefit-bold\">soothing melody</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Makes <span class=\"benefit-bold\">falling asleep easy in minutes</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">A <span class=\"benefit-bold\">relaxing bedtime ritual</span> for children and adults.</div>\n    </div>\n  </div>\n</div>"
+            "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .blink {\n      animation: blink-animation 1.5s steps(5, start) infinite;\n      color: red;\n      display: inline-block;\n      vertical-align: middle;\n      font-size: 10px;\n    }\n    @keyframes blink-animation {\n      to {\n        visibility: hidden;\n      }\n    }\n    .red-div {\n      background-color: #ffcccc;\n      padding: 2px 10px;\n      border-radius: 8px;\n      display: inline-block;\n      text-align: center;\n      margin: 0 auto;\n    }\n    .text {\n      display: inline-block;\n      vertical-align: middle;\n      margin-left: 10px;\n      color: #AD0000;\n      font-weight: 500;\n      font-size: 12px;\n      text-align: justify;\n    }\n  </style>\n  <div class=\"red-div\">\n    <div class=\"blink\">●</div>\n    <div class=\"text\">High demand – Only 4 left in stock</div>\n  </div>\n</div>"
           }
         },
         "variant_picker_bWYFCb": {
