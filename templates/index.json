@@ -65,6 +65,7 @@
         "logo_8fGLfj": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Toys-R-Us-Logo.png",
             "logo_width": 120,
             "link": ""
           }
