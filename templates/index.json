@@ -416,6 +416,57 @@
         "heading_gradient": ""
       }
     },
+    "media_with_text_fVcb9V": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_thJakc": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#eaeef4",
+            "background_gradient": "",
+            "text_color": "#1e2833",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_thJakc"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "scrolling_text_jLkiid": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -476,6 +527,8 @@
     "featured_product_kaAwn7",
     "rich_text_CqQhrh",
     "image_link_blocks_6yLcxC",
+    "media_with_text_fVcb9V",
+    "scrolling_text_jLkiid",
     "faq"
   ]
 }
