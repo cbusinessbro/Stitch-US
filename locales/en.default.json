@@ -449,6 +449,9 @@
       "marketing": {
         "accept_marketing_checkbox_label": "Receive an email confirmation of your order",
         "accept_sms_checkbox_label": "🚚 Send me a delivery notification"
+      },
+      "order_summary": {
+        "enter_shipping_address": "FREE"
       }
     }
   }
