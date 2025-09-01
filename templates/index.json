@@ -159,7 +159,7 @@
         "text_YHN7zk": {
           "type": "text",
           "settings": {
-            "text": "<h5>StitchCalm: A magical companion for peaceful nights</h5>"
+            "text": "<h5>StitchCalm:<strong> A magical companion for peaceful nights</strong></h5>"
           }
         },
         "liquid_8UyjcK": {
@@ -275,7 +275,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": false,
@@ -699,12 +699,12 @@
           "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
-            "hide_thumbnails": false,
+            "hide_thumbnails": true,
             "product_handle": "stitchcalm",
             "aggregated": true,
-            "data-limit": 20,
+            "data-limit": 15,
             "maxwidth": 1080,
-            "is_sample": true
+            "is_sample": false
           }
         }
       },
